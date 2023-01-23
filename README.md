@@ -2,5 +2,9 @@
 ## David Pivonka
 
 
-### Structure
-- *Week folders* are separated into **Lab** and **Coursework** folders.
+### Deadlines
+- **Lab Coursework:** 2023/04/14
+- **Case Study:** 2023/04/14
+
+### Repository Structure
+- **Week folders** are separated into *Lab* and *Coursework* folders.
