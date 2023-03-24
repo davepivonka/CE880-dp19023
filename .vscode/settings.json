@@ -1,3 +1,5 @@
 {
-    "chatgpt.authenticationType": "Google Authentication"
+    "chatgpt.authenticationType": "Google Authentication",
+    "chatgpt.method": "Browser Auto-login",
+    "chatgpt.emailAddress": ""
 }
